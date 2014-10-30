@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Smith for Town Council</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+<style>
+body {
+font-family: 'Arvo', serif;
+text-align: center;
+font-size: 2em;
+}
+h1 {
+font-family: 'Arvo', serif;
+color: orange;
+font-size: 3em;
+margin: 1px;
+
+}
+h2 {
+font-family: 'Arvo', serif;
+color: blue;
+font-size: 3em;
+margin: 0px;
+
+}
+h3 {
+font-family: 'Arvo', serif;
+color: orange;
+font-size: 3em;
+margin: 1px;
+padding: 2px;
+
+
+}
+h4 {
+font-family: 'Arvo', serif;
+color: blue;
+font-size: 2.5em;
+margin: 0px;
+
+}
+h5 {
+font-family: 'Arvo', serif;
+color: orange;
+font-size: 2.5em;
+margin: 0px;
+}
+
+
+.Info {
+  padding: 2em;
+  margin: 2em;
+}
+
+#bodyinfo {
+width: 450px; border: 4px solid black; float: left;
+margin: 1px;
+padding: 2px;
+}
+
+
+}
+</style>
+</head>
+<body>
+<section class="Info">
+<h1>VOTE FOR SUSAN SMITH</h1>
+<h2>FOR RE-ELECTION TO LOWER MERION</h2>
+<h3>TOWN COUNCIL</h3>
+<div id="bodyinfo">
+<ul>
+Susan Smith has a track record of proven results. In her previous term, she:
+<p>
+<li>Secured over $250,000 in funding for local business redevelopment</li>
+<li>Planned and built our new waterfront park</li>
+</p>
+</ul>
+<p>
+Smith will continue to take a strong stance for education funding. 
+</p>
+<p>
+She believes <em>every</em> child in our town needs a great education.
+</p>
+<p>
+</div>
+
+<h4>
+<p>VOTE </p>
+<p>FOR</p> 
+<p>SUSAN </p>
+<p>SMITH</p></h4>
+<h5>NOVEMBER 4</h5>
+
+</p>
+</section>
+</body>
+</html> 
